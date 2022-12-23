@@ -101,6 +101,11 @@
 Разница между текущим состоянием файла и тем что сохранён. 
 > git diff  
  
+Слить ветки
+>git merge
+>
+>git merge --abort (отмена слияния)
+
 Бэкап ветки
 >git reset --hard **commit** (example: git reset --hard b2453ea)
 
